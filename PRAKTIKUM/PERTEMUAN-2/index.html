@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title>Tugas 2 | </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+    <body>
+        <div id="form-container">
+       <form id="form"
+       action ="http://localhost:3000/penduduk" method="POST">
+            <input name="nik" placeholder="NIK" />
+            <input name="nama" placeholder="Nama" />
+            <input name="alamat" placeholder="Alamat" />
+            <input id="ggwp" type ="submit" name="submit" value="POST via url encoded" />
+            <input id="ggwp2" type ="submit" name="submit" value="POST via JSON" />
+       </form>
+    </div>
+    <div id ="table-container">
+        <p id="kocak"></p>
+        <table border="1">
+            <thead>
+                <tr>
+                    <td>NIKK</td>
+                    <td>NAMA</td>
+                    <td>ALAMAT</td>
+                </tr>
+            </thead>
+        </table>
+    </div>
+    </body>
+
+
+    <script>
+    function getElementValue(elementName) {
+            return document.getElementsByName(elementName)[0].value;
+        }
+       
+        let postJSONButton = document.getElementById("ggwp2");
+        postJSONButton.onclick = function (e) {
+            e.preventDefault();
+
+            let nik = getElementValue("nik");
+            let nama = getElementValue("nama");
+            let alamat = getElementValue("alamat");
+            let urlPost = document.getElementById("form").getAttribute("action");
+            let dataJSON = {
+                nama: nama,
+                nik: nik,
+                alamat: alamat,
+            }
+            console.log(dataJSON);
+            let config = {
+                method: 'POST',
+                body: JSON.stringify(dataJSON),
+                headers: new Headers({
+                    'Content-Type': 'application/json; charset=UTF-8',
+                })
+            };
+
+            // fetch(urlPost, config).then(function (responseggwp) {
+            //     return responseggwp.json();
+            // });
+            // then (function(responseaku){
+            //     let p = document.getElementById("kocak");
+            //     p.innerHTML = JSON.stringify(responseaku);
+            // });
+    
+    
+            fetch("https://pokeapi.co/api/v2/pokemon?limit=151").then(function (response) {
+        return response.json();
+    }).then(function (responseggwp2) {
+        let p = document.getElementById("kocak");
+        p.innerHTML = JSON.stringify(responseggwp2);
+    });
+}
+   </script>
+</html>
