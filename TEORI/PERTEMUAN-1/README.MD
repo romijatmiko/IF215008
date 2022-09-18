@@ -29,9 +29,27 @@
 ~ Admin bisa mengatur menu
 
 ## STRUKTUR DATA
+2. Tabel Menu favorit
 
-<h1> COMING SOON </h1> 
+|🔑 id_user| username | password |  
+| -------      | ------- | -----  |
+| 1            | romijatmiko       | 12345      | 
+| 2            | haha       | 123      | 
+
+<h3> yang lainnya Coming Soon!! </h3> 
+
+
 
 ## UX WIREFRAME
 
-<h1> COMING SOON </h1> 
+Homepage
+
+![homepage](https://user-images.githubusercontent.com/71611488/190920305-9df8077f-d6ab-4b87-80b3-ff0b7b39dd75.PNG)
+
+LoginPage
+
+![loginpage](https://user-images.githubusercontent.com/71611488/190920322-ce7ae5ef-10c6-45b0-ae56-762f4ca20d79.PNG)
+
+<h3> yang lainnya Coming Soon!! </h3> 
+
+
