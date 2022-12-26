@@ -15,14 +15,12 @@ NIM : 1207050146
 <sumarry> Demo : Github project initialization
 </sumarry>
 
-<>
 <sumarry> Demo : Hoppscotch / Postman access
 </sumarry>
 
 <sumarry> Demo : PHP & Composer installation & hello world
 </sumarry>
 
-<>
 <sumarry> Demo : Git Instalation
 </sumarry>
 
@@ -36,5 +34,19 @@ NIM : 1207050146
 
 ### CLO-0213
 
-<details>
+<sumarry> Demo : Git Instalation
+</sumarry>
+
+<sumarry> Demo : Github project initialization
+</sumarry>
+
+<sumarry> Demo : Hoppscotch / Postman access
+</sumarry>
+
+<sumarry> Demo : PHP & Composer installation & hello world
+</sumarry>
+
+<sumarry> Demo : Git Instalation
+</sumarry>
+
 </details>
