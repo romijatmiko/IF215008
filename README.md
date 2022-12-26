@@ -11,8 +11,6 @@ NIM : 1207050146
 <details>
 <sumarry> Demo : Git Instalation
 </sumarry>
-<details>
-
 <sumarry> Demo : Github project initialization
 </sumarry>
 
@@ -25,7 +23,7 @@ NIM : 1207050146
 <sumarry> Demo : Git Instalation
 </sumarry>
 
-</details>
+</>
 
 ### CLO-0212
 
