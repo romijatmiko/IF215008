@@ -2,10 +2,12 @@ NAMA : ROMI JATMIKO
 
 NIM : 1207050146
 
-## LIST PERTEMUAN PRAKTIKUM :
+## UAS
 
-[Pertemuan 1](https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/PERTEMUAN-1)
+## Capaian Perkuliahan
 
-## LIST PERTEMUAN TEORI :
+### CLO-0211
 
-[Pertemuan 1](https://github.com/romijatmiko/IF215008/tree/main/TEORI/PERTEMUAN-1)
+<details>
+<sumarry> </sumarry>
+</details>
