@@ -9,5 +9,31 @@ NIM : 1207050146
 ### CLO-0211
 
 <details>
-<sumarry> </sumarry>
+<sumarry> Demo : Git Instalation
+ </sumarry>
+ ![image]
+</details>
+
+<details>
+<sumarry> Demo : Github project initialization 
+ </sumarry>
+ ![image]
+</details>
+
+<details>
+<sumarry> Demo : Hoppscotch / Postman access
+ </sumarry>
+ ![image]
+</details>
+
+<details>
+<sumarry> Demo : PHP & Composer installation & hello world
+ </sumarry>
+ ![image]
+</details>
+
+<details>
+<sumarry> Demo : Git Instalation
+ </sumarry>
+ ![image]
 </details>
