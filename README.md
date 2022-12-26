@@ -8,7 +8,7 @@ NIM : 1207050146
 
 ### CLO-0211
 
-<>
+<details>
 <sumarry> Demo : Git Instalation
 </sumarry>
 ![image]
