@@ -11,41 +11,4 @@ NIM : 1207050146
 <details>
 <sumarry> Demo : Git Instalation
 </sumarry>
-<sumarry> Demo : Github project initialization
-</sumarry>
-
-<sumarry> Demo : Hoppscotch / Postman access
-</sumarry>
-
-<sumarry> Demo : PHP & Composer installation & hello world
-</sumarry>
-
-<sumarry> Demo : Git Instalation
-</sumarry>
-
-</>
-
-### CLO-0212
-
-<details>
-
-</details>
-
-### CLO-0213
-
-<sumarry> Demo : Git Instalation
-</sumarry>
-
-<sumarry> Demo : Github project initialization
-</sumarry>
-
-<sumarry> Demo : Hoppscotch / Postman access
-</sumarry>
-
-<sumarry> Demo : PHP & Composer installation & hello world
-</sumarry>
-
-<sumarry> Demo : Git Instalation
-</sumarry>
-
 </details>
