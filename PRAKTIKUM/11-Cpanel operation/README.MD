@@ -1,4 +1,4 @@
-# Postman Acces
+# Cpanel Operation
 
 ## Langkah-Langkah Yang Harus Kalian Lakukan Adalah :
 
