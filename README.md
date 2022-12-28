@@ -79,16 +79,16 @@
             <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/16-HTTP%20GET%20%26%20POST%20using%20Form%20Action%20and%20Fetch%20API">HTTP GET & POST using Form Action and Fetch API</td><td>5 :heavy_check_mark:</td>
         </tr>    
         <tr>
-            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/17-REACT%20JS%20DB%20-%20Dynamic%20Web%20Page">React Js DB - Dynamic Web Page</td><td>5</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/17-REACT%20JS%20DB%20-%20Dynamic%20Web%20Page">React Js DB - Dynamic Web Page</td><td>5 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/18-REACT%20JS%20DB%20-%20Web%20Service">React JS - Web Service</td><td>5 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/19-OOP-based%20REACT%20JS%20Project"> OOP-based React Js Project</td><td>4</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/19-OOP-based%20REACT%20JS%20Project"> OOP-based React Js Project</td><td>4 :heavy_check_mark:</td>
         </tr>    
         <tr>
-            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/20-Deploy%20React%20Project">  Deploy PHP Project to Cpanel</td><td>4</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/20-Deploy%20React%20Project">  Deploy PHP Project to Cpanel</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0213</td>
@@ -101,13 +101,13 @@
             <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/21-Single%20Page%20App%20with%20React%20%26%20React-router">Single Page App with React & React-router</td><td>12 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : Dynamic Web Page using React Redux <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/22-Dynamic%20Web%20Page%20using%20React%20Redux"></td><td>9</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/22-Dynamic%20Web%20Page%20using%20React%20Redux">Dynamic Web Page using React Redux </td><td>9 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/23-Web%20Service%20using%20Express"> Web Service using Express</td><td>6</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/23-Web%20Service%20using%20Express"> Web Service using Express</td><td>6 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/24-News%20Site%20using%20Wordpress"> News Site using Wordpress</td><td>5</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/24-News%20Site%20using%20Wordpress"> News Site using Wordpress</td><td>5 :heavy_check_mark:</td>
         </tr>
     </tbody>
 </table>
