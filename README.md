@@ -19,7 +19,7 @@
             <td rowspan=13>30 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Git%20instalation">Git installation</a></td><td>1 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/1-Git%20installation">Git installation</a></td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Git%20Project%20init">Github project initialization</td><td>1 :heavy_check_mark:</td>
