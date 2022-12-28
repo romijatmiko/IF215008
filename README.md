@@ -1,10 +1,10 @@
 ## 📟 Video Demo UAS PPAW
 
-> We must all suffer from one of two pains: the pain of discipline or the pain of regret.
+> <a href="https://www.youtube.com/watch?v=I7Oe5pYa1Ew&t=1258s">Youtube</a>
 
-### Video Ajar 5 SD
+### 📟 Video Ajar 5 SD
 
-> We must all suffer from one of two pains: the pain of discipline or the pain of regret.
+<a href="https://www.youtube.com/watch?v=rHgFg5rJPfk&t=92s&ab_channel=RomiJatmiko">Youtube</a>
 
 ## 📟 The Assessments Plan
 
@@ -39,75 +39,75 @@
             <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/4-PHP%20%26%20Composer%20installation%20%26%20hello%20world">PHP & Composer installation & hello world</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/PostgreSQL%20%26%20MySQL%20installation">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/5-PostgreSQL%20%20MySQL%20installation">PostgreSQL / MySQL installation</td><td>2 :heavy_check_mark:</td>
         </tr>        
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/DBeaver%20installation%20%26%20DB%20connection">DBeaver installation & DB connection</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/6-DBeaver%20installation%20%26%20DB%20connection">DBeaver installation & DB connection</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/MobaExterm">MobaXterm installation & SSH connection</td><td>2 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/7-MobaXterm%20installation%20%26%20SSH%20connection">MobaXterm installation & SSH connection</td><td>2 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/NodeJS%20%26%20NPM%20Install">NodeJS & NPM installation, operation & hello world</td><td>4 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/8-NodeJS%20%26%20NPM%20installation%2C%20operation%20%26%20hello%20world">NodeJS & NPM installation, operation & hello world</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/blob/main/Praktikum%20Web/Pertemuan%2004/README.md">Linux server operation</td><td>5 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/9-Linux%20server%20operation">Linux server operation</td><td>5 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Nginx / Apache web server installation & operation</td><td>5 </td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/10-Nginx%20Apache%20web%20server%20installation%20%26%20operation">Nginx / Apache web server installation & operation</td><td>5 :heavy_check_mark: </td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Cpanel operation</td><td>4</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/11-Cpanel%20operation">Cpanel operation</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/ramabhagadhara/karyawan">Domain registration</td><td>1 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/12-Domain%20registration">Domain registration</td><td>1 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td rowspan=9>CLO-0212</td>
             <td rowspan=9>35 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Pertemuan%2001/Responsivelayout">HTML Responsive Layout with Media Query & Flexbox</td><td>3 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/13-HTML%20Responsive%20Layout%20with%20Media%20Query%20%26%20Flexbox">HTML Responsive Layout with Media Query & Flexbox</td><td>3 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Tranformation%20Data">Javascript Data Transformation</td><td>4 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/14-Javascript%20Data%20Transformation">Javascript Data Transformation</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Pertemuan%2001/BrowserApi">Browser API - Event Handling, Local Storage, Element manipulation</td><td>5 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/15-Browser%20API%20-%20Event%20Handling%2C%20Local%20Storage%2C%20Element%20manipulation">Browser API - Event Handling, Local Storage, Element manipulation</td><td>5 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/IF215007-IF215008/tree/main/Praktikum%20Web/Pertemuan%2002">HTTP GET & POST using Form Action and Fetch API</td><td>5 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/16-HTTP%20GET%20%26%20POST%20using%20Form%20Action%20and%20Fetch%20API">HTTP GET & POST using Form Action and Fetch API</td><td>5 :heavy_check_mark:</td>
         </tr>    
         <tr>
-            <td>Demo : <a href="">PHP DB - Dynamic Web Page</td><td>5</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/17-REACT%20JS%20DB%20-%20Dynamic%20Web%20Page">React Js DB - Dynamic Web Page</td><td>5</td>
         </tr>
         <tr>
-            <td>Demo : <a href="https://github.com/Nurkholis070401/BooksApp">PHP DB - Web Service</td><td>5 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/18-REACT%20JS%20DB%20-%20Web%20Service">React JS - Web Service</td><td>5 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : OOP-based PHP Project using Composer</td><td>4</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/19-OOP-based%20REACT%20JS%20Project"> OOP-based React Js Project</td><td>4</td>
         </tr>    
         <tr>
-            <td>Demo : Deploy PHP Project to Cpanel</td><td>4</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/20-Deploy%20React%20Project">  Deploy PHP Project to Cpanel</td><td>4</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0213</td>
             <td rowspan=6>35 %</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">HTML Responsive Layout with Bootstrap</td><td>3 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/20-HTML%20Responsive%20Layout%20with%20Bootstrap">HTML Responsive Layout with Bootstrap</td><td>3 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : <a href="">Single Page App with React & React-router</td><td>12 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/21-Single%20Page%20App%20with%20React%20%26%20React-router">Single Page App with React & React-router</td><td>12 :heavy_check_mark:</td>
         </tr>
         <tr>
-            <td>Demo : Dynamic Web Page using Laravel</td><td>9</td>
+            <td>Demo : Dynamic Web Page using React Redux <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/22-Dynamic%20Web%20Page%20using%20React%20Redux"></td><td>9</td>
         </tr>
         <tr>
-            <td>Demo : Web Service using Slim</td><td>6</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/23-Web%20Service%20using%20Express"> Web Service using Express</td><td>6</td>
         </tr>
         <tr>
-            <td>Demo : News Site using Wordpress</td><td>5</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/24-News%20Site%20using%20Wordpress"> News Site using Wordpress</td><td>5</td>
         </tr>
     </tbody>
 </table>
