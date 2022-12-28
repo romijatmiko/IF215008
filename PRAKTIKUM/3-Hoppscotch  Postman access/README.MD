@@ -24,7 +24,7 @@ Berikut adalah link postman : https://www.postman.com/
 
 ![5](post-5.PNG)
 
-### 5. Buat Request Baru
+### 6. Buat Request Baru
 
 Kita akan mengambil contoh dengan api public pokemon, copy url tersebut :
 ![6](post-6.PNG)
@@ -33,4 +33,4 @@ Lalu letakan di postman request url dengan method get :
 
 ![7](post-7.PNG)
 
-### 5. Selamat Kamu Sudah Berhasil
+### 7. Selamat Kamu Sudah Berhasil
