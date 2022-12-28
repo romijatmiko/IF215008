@@ -8,7 +8,7 @@
 
 ### 📺 Video Ajar 5 SD
 
-<a href="https://www.youtube.com/watch?v=rHgFg5rJPfk&t=92s&ab_channel=RomiJatmiko"> <strong> 📺 Youtube</strong> </a>
+> <a href="https://www.youtube.com/watch?v=rHgFg5rJPfk&t=92s&ab_channel=RomiJatmiko"> <strong> 📺 Youtube</strong> </a>
 
 ## 📟 The Assessments Plan
 
