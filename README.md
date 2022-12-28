@@ -88,7 +88,7 @@
             <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/19-OOP-based%20REACT%20JS%20Project"> OOP-based React Js Project</td><td>4 :heavy_check_mark:</td>
         </tr>    
         <tr>
-            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/20-Deploy%20React%20Project">  Deploy PHP Project to Cpanel</td><td>4 :heavy_check_mark:</td>
+            <td>Demo : <a href="https://github.com/romijatmiko/IF215008/tree/main/PRAKTIKUM/20-Deploy%20React%20Project">  Deploy React Project Project to Vercel App & Railway</td><td>4 :heavy_check_mark:</td>
         </tr>
         <tr>
             <td rowspan=6>CLO-0213</td>
