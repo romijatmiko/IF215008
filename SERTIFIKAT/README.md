@@ -1,4 +1,4 @@
-## 📟 Sertifikat Saya
+## 📝 Sertifikat Saya
 
 <a href="[](course_certificate_2.pdf)"><strong>~ Database Programming with SQL</strong></a>
 

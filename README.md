@@ -1,14 +1,14 @@
-## 📟 Sertifikat Saya
+## 📝 Sertifikat Saya
 
-> <a href="https://github.com/romijatmiko/IF215008/tree/main/SERTIFIKAT"><strong>Click Me</strong></a>
+> <a href="https://github.com/romijatmiko/IF215008/tree/main/SERTIFIKAT"><strong>📝 Click Me</strong></a>
 
-## 📟 Video Demo UAS PPAW
+## :yt: Video Demo UAS PPAW
 
-> <a href="https://www.youtube.com/watch?v=I7Oe5pYa1Ew&t=1258s"><strong>Youtube</strong></a>
+> <a href="https://www.youtube.com/watch?v=I7Oe5pYa1Ew&t=1258s"><strong> :yt: Youtube</strong></a>
 
 ### 📟 Video Ajar 5 SD
 
-<a href="https://www.youtube.com/watch?v=rHgFg5rJPfk&t=92s&ab_channel=RomiJatmiko"> <strong>Youtube</strong> </a>
+<a href="https://www.youtube.com/watch?v=rHgFg5rJPfk&t=92s&ab_channel=RomiJatmiko"> <strong> :yt: Youtube</strong> </a>
 
 ## 📟 The Assessments Plan
 
