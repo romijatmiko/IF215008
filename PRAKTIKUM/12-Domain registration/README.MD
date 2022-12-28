@@ -1,4 +1,4 @@
-# Postman Acces
+# Domain Registration
 
 ## Langkah-Langkah Yang Harus Kalian Lakukan Adalah :
 
