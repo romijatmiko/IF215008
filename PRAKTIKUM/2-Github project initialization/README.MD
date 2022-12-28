@@ -1,4 +1,4 @@
-# Git Instalation
+# Git Github Project Init
 
 ## Langkah-Langkah Yang Harus Kalian Lakukan Adalah :
 
