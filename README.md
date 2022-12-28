@@ -1,6 +1,6 @@
 ## 📟 Sertifikat Saya
 
-> <a href="https://www.youtube.com/watch?v=I7Oe5pYa1Ew&t=1258s"><strong>Youtube</strong></a>
+> <a href="https://github.com/romijatmiko/IF215008/tree/main/SERTIFIKAT"><strong>Click Me</strong></a>
 
 ## 📟 Video Demo UAS PPAW
 
