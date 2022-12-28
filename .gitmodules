@@ -1,0 +1,6 @@
+[submodule "JURA-SERVER"]
+	path = JURA-SERVER
+	url = https://github.com/romijatmiko/JURA-SERVER
+[submodule "JURACHICKENT-CLIENT"]
+	path = JURACHICKENT-CLIENT
+	url = https://github.com/romijatmiko/JURACHICKENT-CLIENT
