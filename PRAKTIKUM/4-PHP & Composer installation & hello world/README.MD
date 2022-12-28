@@ -1,4 +1,4 @@
-# Postman Acces
+# PHP Composer
 
 ## Langkah-Langkah Yang Harus Kalian Lakukan Adalah :
 
@@ -8,16 +8,43 @@ Berikut adalah link postman : https://getcomposer.org/
 
 ![1](1p.PNG)
 
-### 2. Buat Project Baru
+### 2. Cek Instalasi
 
-### 3. Mulailah Membuat Code
+dengan cara :
+
+```
+$ composer
+```
+
+### 3. Buat Project Baru
+
+```
+$ mkdir contohPHPHelloworld
+
+$ cd contohPHPHelloworld
+
+$ composer init
+```
+
+### 3. Abaikan pengisian Package dengan cara klik enter
+
+### 4. Buat File
+
+```
+$ touch helloworld.php
+```
+
+### 5. Dalam helloworld.php isi code diabawh :
 
 ```
 <?php
 require_once "vendor/autoload.php";
 
-$hello = new Rivsen\Demo\Hello();
+$hello = new Helloworld\Demo\Hello();
 echo $hello->hello();
+
 ```
 
-### 3. Selesai
+```
+$ php helloworld.php
+```
